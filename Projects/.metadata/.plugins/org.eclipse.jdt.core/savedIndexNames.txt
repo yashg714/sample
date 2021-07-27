@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+G:\MyEclipse\LTI Traing\core java\Projects\.metadata\.plugins\org.eclipse.jdt.core
+1424850202.index
+2636792359.index
+2851935875.index
+132620216.index
+3326934036.index
+2380175872.index
+1508840873.index

@@ -1,0 +1,9 @@
+package com.lti.model;
+
+import java.util.Date;
+
+public class Complaint {
+
+	Date RDate,SDate;
+	
+}
